@@ -1,0 +1,19 @@
+The ANN model had better accuracy so is preferred in most contexts, however, the transformer model can probably incorporate context information better. The ANN model was also bigger so might not be as good if memory is limited.
+
+----------------------------------------
+
+ANN:
+Parameters: 5 328 132
+Accuracy: 82.5%
+
+Transformer:
+Parameters: 1 738 992
+Accuracy: 71.0%
+
+-----------------------------------------
+
+We learned arcitectural differences between Transformers and ANNs. We didn't try varying the amount of 
+
+
+
+
